@@ -1,5 +1,5 @@
 #include <stdbool.h>
-#include "ColorCodeDetect.h"
+#include "ColorcodeDetect.h"
 
 #define isCompatible(x, type) _Generic(x, type: true, default: false)
 
